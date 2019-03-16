@@ -1,0 +1,1 @@
+# MacOS, Hackintosh e conversão de Hardware de Mac para outros sistemas operacionais
