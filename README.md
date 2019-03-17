@@ -1,7 +1,7 @@
-# repositorio-teste-dev-periferia
-Repositório de teste de re-organização do recursos-desenvolvimento-periferia 
+# Repositório de testes do recursos-desenvolvimento-periferia
+**Repositório de teste de re-organização das categorias do projeto principal recursos-desenvolvimento-periferia [recursos-desenvolvimento-periferia](https://github.com/fititnt/recursos-desenvolvimento-periferia)**
 
-[![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://fititnt.github.io/repositorio-teste-dev-periferia/)
+[![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://fititnt.github.io/recursos-desenvolvimento-periferia-APENAS-TESTES/)
 
 
 <!-- TOC depthFrom:2 depthTo:5 -->
@@ -33,7 +33,7 @@ Repositório de teste de re-organização do recursos-desenvolvimento-periferia
 - [Desenvolvedor em Windows](windows/README.md)
 
 ### Desenvolvedor em MacOS
-- [Desenvolvedor em MacOS](windows/macos.md)
+- [Desenvolvedor em MacOS](windows/README.md)
 
 ## Hardware
 ### Computador pessoal
@@ -43,7 +43,6 @@ Repositório de teste de re-organização do recursos-desenvolvimento-periferia
 - [Computador de placa única](sbc/README.md)
 
 ## Serviços
-
 ### IaaS, PaaS, SaaS, XaaS
 
 - [IaaS, PaaS, SaaS, XaaS](xaas/README.md)
@@ -58,6 +57,6 @@ Veja os curadores de conteúdo
 
 [![Domínio Público](imagens/dominio-publico.png)](UNLICENSE)
 
-Na medida do possível segundo a lei, [Emerson Rocha](https://github.com/fititnt)
-renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este
+Na medida do possível segundo a lei, todos os contribuidores renunciaram a
+todos os direitos autorais e direitos conexos ou vizinhos a este
 trabalho para o [Domínio Público](UNLICENSE).
