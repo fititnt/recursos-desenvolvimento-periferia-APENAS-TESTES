@@ -20,19 +20,38 @@ tópico, mas sim alternativas que, mesmo que não perfeitas para cada perfil,
 tendem a ser um ótimo ponto de partida, pois são pensados para funcionar até
 mesmo em cenários especialmente desafiadores.
 
-**Para quem é, ou quem não é, este projeto?**
+**Países foco: todos os que tem língua oficial o idioma em que o projeto está escrito**
+
+Esta versão do projeto está escrita na
+[língua portuguesa](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa). A
+[Lista de países onde o português é língua oficial](https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial)
+em ordem alfabética é:
+
+(...)
+
+Os países acima [estão localizado em cinco continentes diferentes](https://pt.wikipedia.org/wiki/Geografia_da_l%C3%ADngua_portuguesa)
+(África, América, Ásia, Europa e Oceania), o que implica que as contribuições
+neste projeto levem em consideração também a realidade de outros países.
+
+**Notem também que a opinão de um ou mais individuos não necessariamente
+representam a realidade de todo seu país, em especial se contradizem
+estatísticas oficiais de acesso a internet e/ou quantidade de pessoas que
+hardware.**
+
+**Exemplos de perfis que devem ser priorizados**
 
 O conteúdo aqui é projetado para *teoricamente* poder ser aproveitado até
-mesmo por uma pessoa em situação de rua que esteja aprendendo programação em
-um smartphone ou, um caso mais extraordinário, tal pessoa seja um
-refugiada que até já tenha experiêcia com desenvolvimento de software
-mas saiba previamente como fazê-lo usando apenas smartphone/tablet/computador
-doado menos potente.
+mesmo por uma **[pessoa em situação de rua](https://pt.wikipedia.org/wiki/Sem-teto)**
+que esteja aprendendo programação em um smartphone ou, um caso mais
+extraordinário, tal **[pessoa seja refugiada](https://www.acnur.org/portugues/dados-sobre-refugio/perguntas-e-respostas/#refugiado)**
+que até já tenha experiêcia com desenvolvimento de software mas saiba
+previamente como fazê-lo usando apenas smartphone/tablet/computador doado menos
+potente.
 
-Esses dois exemplos servem como referencia para quem quer contribuir com
-conteúdo conseguir ser mais pragmático, porém ainda assim criativos.
+Ainda que outros perfis possam ser adicionados no futuro, os dois acima servem
+como referencia para quem quer contribuir com conteúdo conseguir ser mais
+pragmático, porém ainda assim criativos.
 
-(... mais explicação aqui...)
 
 # Índice de conteúdo
 
